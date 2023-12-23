@@ -1,6 +1,7 @@
 # my_first_app
 
 A new Flutter project.
+Project code -> lib -> main.dart
 
 ## Getting Started
 
